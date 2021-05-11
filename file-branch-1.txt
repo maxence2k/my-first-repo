@@ -1,1 +1,2 @@
+<<<<<<< HEAD
 First line in file 1, yes
